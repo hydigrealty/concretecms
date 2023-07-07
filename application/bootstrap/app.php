@@ -14,6 +14,7 @@
  * ->setThemeByRoute('/login', 'greek_yogurt');
  *
  *
+ *Just adding an extra line
  * ## Register a class override.
  *
  * $app->bind('helper/feed', function() {
